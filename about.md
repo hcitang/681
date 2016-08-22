@@ -1,7 +1,11 @@
 # About CPSC 681
 
 This specialized course stresses evaluation methods for performing research in Human Computer Interaction (HCI). In particular, students will:
-investigate, compare and contrast a wide variety of existing evaluation methodologies, understand where and how each methodology is appropriate to particular interface design and evaluation situation, apply several of these methodologies to HCI problems, gain first-hand in-depth experiences with a particular methodology by designing, running, and interpreting a study of the student's choosing.
+
+* investigate, compare and contrast a wide variety of existing evaluation methodologies;
+* understand where and how each methodology is appropriate to particular interface design and evaluation situation;
+* apply several of these methodologies to HCI problems, and
+* gain first-hand in-depth experiences with a particular methodology by designing, running, and interpreting a study of the student's choosing.
 
 CPSC 681 is not an introduction to the field of HCI. If you are looking for a general course concerning user experience design, CPSC 481 and CPSC 581 would be a far better choice.
 
