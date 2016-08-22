@@ -1,4 +1,4 @@
-# About CPSC 681: Research Methods in Human-Computer Interaction
+# About CPSC 681
 
 This specialized course stresses evaluation methods for performing research in Human Computer Interaction (HCI). In particular, students will:
 investigate, compare and contrast a wide variety of existing evaluation methodologies, understand where and how each methodology is appropriate to particular interface design and evaluation situation, apply several of these methodologies to HCI problems, gain first-hand in-depth experiences with a particular methodology by designing, running, and interpreting a study of the student's choosing.
@@ -7,9 +7,9 @@ CPSC 681 is not an introduction to the field of HCI. If you are looking for a ge
 
 ## Evaluation
 
-* 10% - Class participation
-* 25% - Topic
-* 65% - Project
+* 10% - [Class participation](participation.md)
+* 25% - [Topic](topic.md)
+* 65% - [Project](project.md)
 
 ## Preparation
 
