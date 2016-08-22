@@ -2,7 +2,7 @@
 
 ## Course Information
 
-This course provides an introduction to the process of designing, creating and evaluating tools or artifacts for direct human use.
+This specialized course stresses evaluation methods for performing research in Human Computer Interaction (HCI).
 
 * Lectures: MW 2-3:15, MS680A
 * Office Hours: by appointment
