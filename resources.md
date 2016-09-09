@@ -6,6 +6,7 @@
 
 ## Other Resources
 
+* [Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans](http://www.pre.ethics.gc.ca/eng/policy-politique/initiatives/tcps2-eptc2/Default/) - Document outlining ethical framework and its application for research funded by Tri-Council in Canada (CIHR, NSERC, SSHRC)
 * [TCPS 2 Core Tutorial on Research Ethics](http://www.pre.ethics.gc.ca/eng/education/tutorial-didacticiel/) - This needs to be completed and the certificate submitted to me.
 * [Conjoint Faculties Research Ethics Board](http://www.ucalgary.ca/research/researchers/ethics-compliance/cfreb) reviews ethics applications for doing research with human participants. You can create an [online application here](http://iriss.ucalgary.ca). For the purpose of the course, complete the [old hardcopy form](cfreb-application-form.doc).
 * [Koji Yatani's Statistics for HCI Research](http://yatani.jp/teaching/doku.php?id=hcistats:start) - Love this as a resource for thinking about statistics tests and their use in HCI research
