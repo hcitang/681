@@ -5,3 +5,5 @@
 [Topic](topic.md)
 [Project](project.md)
 [Resources](resources.md)
+
+[gimmick:theme](slate)

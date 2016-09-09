@@ -105,7 +105,7 @@ Run your study with one or two people (e.g., classmates). The goal here is to bo
 * run subjects and collect data/observations
 * analyze the data and interpret the results
 
-Deliver a 3-7 page paper in ACM CHI paper format style at [ACM CHI Archive Format](http://www.sigchi.org/publications/chipubform/sigchi-papers-word-template/view/). I will not read submissions that deviate from this format. See also [How to Structure Reports on Experiments in Human Computer Interaction](http://saul.cpsc.ucalgary.ca/public/Papers/HowToStructureReports.doc). The paper combines your (revised) developed project proposal, the materials in your ethics application, plus other sections as follows:
+Deliver a 3-4 page paper in ACM CHI paper format style at [ACM CHI Archive Format](http://www.sigchi.org/publications/chipubform/sigchi-papers-word-template/view/). I will not read submissions that deviate from this format. See also [How to Structure Reports on Experiments in Human Computer Interaction](http://saul.cpsc.ucalgary.ca/public/Papers/HowToStructureReports.doc). The paper combines your (revised) developed project proposal, the materials in your ethics application, plus other sections as follows:
 
 * title, authors, abstract, etc
 * introduction (motivation, background, and detailed * problem statement),
@@ -118,7 +118,7 @@ Deliver a 3-7 page paper in ACM CHI paper format style at [ACM CHI Archive Forma
 
 **5. Continue your pilot using your revised plan**
 
-Iterate your study and analysis by conducting a more substantial pilot study based on your revised study plan. This is a milestone rather than a deliverable. Most students end up doing this a limited pilot i.e., a scaled down study of a few subjects (again typically your classmates, colleagues and friends unless ethics approval was granted).
+Iterate your study and analysis by conducting a more substantial pilot study based on your revised study plan. This is a milestone rather than a deliverable. Most students end up doing this as a limited pilot i.e., a scaled down study of a few subjects (again typically your classmates, colleagues and friends unless ethics approval was granted).
 
 **6. Final Writeup**
 
