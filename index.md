@@ -7,6 +7,7 @@ This specialized course stresses evaluation methods for performing research in H
 * Lectures: MW 2-3:15, MS680A
 * Office Hours: by appointment
 * Instructor: [Tony Tang](http://hcitang.org)
+* Facebook Group: [CPSC 681 Facebook Group](https://www.facebook.com/groups/1794041234173420/)
 * Pre-requisite: Consent of the department
 
 [Course description, learning objectives, and evaluation criteria](about.md)
