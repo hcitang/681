@@ -15,3 +15,7 @@
 * [The HCI Bibliography](http://www.hcibib.org/) is a superb collection of paper titles and abstracts. Includes links to the ACM Digital Library
 * [The ACM Digital library](http://www.acm.org/dl) has PDF versions of their published papers - you can get them free if you're connecting from school. If you're working from home, [you can set it up Google Scholar](http://ricelab.cpsc.ucalgary.ca/pmwiki.php/Resources/GoogleScholarHOWTO) to give you access.
 * [When to use which UX research methods](http://www.nngroup.com/articles/which-ux-research-methods/)
+
+## Stats Resources
+* [R for Data Science](http://r4ds.had.co.nz)
+
