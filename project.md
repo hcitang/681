@@ -42,7 +42,7 @@ Ideally, the problem will be related to one of:
 
 Problems selected must be amenable to one of the methodological approaches discussed in class, and must be doable given the time-frame of the course and the resources available to you. Deliverables and milestones are described below. Tentative due dates are posted on the course schedule.
 
-**1. Initial project proposal.**
+### **1. Initial project proposal.**
 
 Deliver a 1/2 to 1 page concise problem statement in the form of an informative title, author list, and abstract as defined by the ACM CHI paper format style at [ACM CHI Archive Format](http://www.sigchi.org/publications/chipubform/sigchi-papers-word-template/view). I will not read submissions that deviate from this format. If you are considering several problems to choose from, you may write up to a maximum of 3 problem statements. I will review these proposals and discuss them with you. Initial sign-off the project proposal by me is required. If there are issues in your proposal, you will be asked to generate new versions until sign off is given.
 
@@ -68,13 +68,13 @@ bloggs@ucalgary.ca
 > **Abstract:** People now carry touch-based smart phones with them, where they are expected to respond to incoming calls no matter what their situation. Many smart phones now require people to look at the display and operate a graphical control to answer the call. The advantage is that such mechanisms may protect against people accidentally answering a call by inadvertant touches. Yet interfaces that divert a person's attention from the display can be dangerous, such as when walking or driving. To mitigate this problem, we developed a call-answering interface that can be operated without looking, and which still protects against accidental answers. Our hypothesis is that user distraction in a gaze-required standard interface vs. our experimental gaze-free interface is decreased in both stress-free and stressful situations, as measured by time looking at the display and by time to answer a call. Using a within-subjects Anova factorial design, we will test 20 subjects across both interfaces in a stress-free and a stressful setting. We will also interview them - using an open-ended questionnaire - after each condition to gather their subjective reactions to the interface. This methodology is appropriate for: capturing critical user performance measures in a controlled setting; capturing subjective preferences; and for performing a comparison of the two competing interfaces. We expect to contribute an understanding of the differences in distraction due to gaze-required vs. gaze-free call-answering interfaces.
 > **Keywords:** Smart phone interfaces, visual attention, distraction.
 
-**2. Developed project proposal**
+### **2. Developed project proposal**
 
 Deliver a 1 - 2 page concise problem statement using the points described above (but in more detail), in the form of an informative title, author list, abstract, and paper introduction as found in the ACM CHI paper format style at [ACM CHI Archive Format](http://www.sigchi.org/publications/chipubform/sigchi-papers-word-template/view). I will not read submissions that deviate from this format. Essentially, this is an expanded version of your initial project proposal.
 
 This proposal will serve as a contract of what you will do. Sign off is again required by me.
 
-**3. Ethics application.**
+### **3. Ethics application.**
 
 Research involving evaluations with human subjects require an ethics application that must be reviewed and approved by an ethics committee. Because this assignment is for pedagogical learning vs. actual research, I will not require you to submit this application to the ethics board. However, without ethics approval, you cannot use your pilot results for research purposes. That is, this is strictly a pedagogical learning exercise.
 
@@ -92,7 +92,7 @@ The section describing the study and methodology must provide specific details o
 * specific details of the particular methodological technique you will use
 * details of how you would analyze any data returned from that study
 
-**4. Conduct an initial pilot study and writeup**
+### **4. Conduct an initial pilot study and writeup**
 
 Experiments, like computer programs, are full of bugs. Testing your experiment will help reveal those problems. Typical problems include flaws and inefficiencies in the methodology, and problems analyzing the data. You should first run yourselves, several class mates, and/or colleagues through your procedure. Analyse the data produced. This is a great time to catch the bugs and get rid of them. It is also a good time to get a sense of what the real results will be like, and perhaps to consider what changes should be made to the problem statement and methodological approach.
 
@@ -116,18 +116,18 @@ Deliver a 3-4 page paper in ACM CHI paper format style at [ACM CHI Archive Forma
 * a critical appraisal of the limitations of the study and any problems in the analysis
 * a revision of your study plan as needed, based on the above
 
-**5. Continue your pilot using your revised plan**
+### **5. Continue your pilot using your revised plan**
 
 Iterate your study and analysis by conducting a more substantial pilot study based on your revised study plan. This is a milestone rather than a deliverable. Most students end up doing this as a limited pilot i.e., a scaled down study of a few subjects (again typically your classmates, colleagues and friends unless ethics approval was granted).
 
-**6. Final Writeup**
+### **6. Final Writeup**
 
 Deliver an 8-10 page paper in ACM CHI paper format style at ACM CHI Archive Format. Detail all aspects of your project, its results, discussion, and future work.
 
 Deliver a separate appendix (both electronic and paper) structured as an archive. This must be a well-structured set of materials that details all your 
 research (this will include everything mentioned above).
 
-**7. Final Presentation**
+### **7. Final Presentation**
 
 * Deliver a professional conference-style presentation.
 * Presentation time is strict, and includes a question period.
