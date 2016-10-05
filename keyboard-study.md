@@ -1,6 +1,6 @@
 # Keyboard Study Materials
 
-* [Study Description and Deliverable](http://hcitang.org/uploads/Teaching/681-keyboard-study-description.docx
+* [Study Description and Deliverable](http://hcitang.org/uploads/Teaching/681-keyboard-study-description.docx)
 
 * [Appendix A: Keyboarding Background](http://hcitang.org/uploads/Teaching/681-appendix-a-keyboard-background.docx)
 * [Appendix B: Instructions to Participants](http://hcitang.org/uploads/Teaching/681-appendix-b-instructions-to-participants.docx)
