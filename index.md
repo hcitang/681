@@ -31,7 +31,7 @@ This specialized course stresses evaluation methods for performing research in H
 * Week of 10/3
     - Ethics [slides](http://hcitang.org/uploads/Teaching/681-9-ethics.pptx) [mp3](http://hcitang.org/uploads/Teaching/681-9-ethics.mp3)
         + [Facebook Study Readings](facebook.md)
-    - Keyboard Study [materials](http://saul.cpsc.ucalgary.ca/pmwiki.php/HCIResources/ModuleMouseTyping)
+    - Keyboard Study [materials](http://saul.cpsc.ucalgary.ca/pmwiki.php/HCIResources/ModuleMouseTyping) [printable materials](keyboard-study.md)
 * Week of 10/10 and 10/17
     - [R-Project](http://r-project.org)
     - R notes [pdf](http://hcitang.org/uploads/Teaching/681-5-stats-in-r.pdf) [html](http://hcitang.org/uploads/Teaching/681-5-stats-in-r.html)
