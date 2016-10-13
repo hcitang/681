@@ -80,7 +80,7 @@ Research involving evaluations with human subjects require an ethics application
 
 If you do want to use your study for research purposes, you may submit it to the ethics board. However, approval delays will likely conflict with course schedule demands, so you should be prepared to do at least part of your project as a learning exercise until approval is granted. In all cases, you will need to comply with the University Ethics Procedure.
 
-Deliver an ethics application, [using the forms and format as provided and required by the University](http://www.hcitang.org/uploads/Teaching/CFREBApplicationForm.doc).
+Deliver an ethics application, using the forms and format as provided and required by the University [ethics application](http://www.hcitang.org/uploads/Teaching/CFREBApplicationForm.doc) [consent form](http://www.ucalgary.ca/research/files/research/cfrebconsentformtemplate_sept2016.docx).
 
 All sections must be filled in, including attachments as required by the ethics process.
 
